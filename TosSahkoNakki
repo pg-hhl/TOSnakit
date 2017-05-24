@@ -1,0 +1,29 @@
+TOSsähköNakki
+
+Käyttöohjeista https://github.com/HelsinkiHacklab/Instructions/blob/master/tos_sn40_lathe/TOS-SN40-SN50.pdf 
+löytyy kaksi kytkentäkaaviota, selkein ero työvalon toteutuksessa. Ei ole tietoa onko kumpikaan oikea. 
+
+0. Valistunut arvaus laitteen sähköjen kunnosta. Voiko jäähdytysnesteen moottorin kontaktorin vaihtaa ja säätää päämoottorin  
+kontaktorin tilalle?
+
+1. Hätä-Seis-painike standardin EN 418 pysäytysluokan 0 mukaan. Sijoitus niin että sorvari pystyy käyttämään sitä 
+polvella/jalalla.
+
+2. Vanhan turvalaitteen korvaaminen, sorvi ei saa lähteä käyntiin jos karan päälle tuleva suojus ei ole päällä. 
+Korvataan epävarma kaapelikäyttö raja-/mikrokytkimellä joka estää käynnistyksen mikäli suojus ei ole oikeassa asennossa.
+
+3. Uusi turvaominaisuus: sorvi ei saa käynnistyä mikäli kytkinvipu ei ole vapaa-asennossa. 
+Asennon tunnistaminen lienee helpointa sorvin takaa, läheltä varsinaista kytkinpakkaa. 
+Ominaisuus ei saa estää vaihteen kytkemistä päälle, ts käytössä vain kun sorvi käynnistetään.
+
+4. Päävirtakytkimen vaihto, uusi on sorvinterätelineessä.
+
+5. Kaksi pistorasiaa 230V / maadoitettu jotka sorvin oman pääkytkimen takana ja asennettu sorvin taakse. 
+Käytetään katossa oleviin ja uuteen kelkkaan kiinnitettävään työvaloon. Maksimikuormitus on luokkaa 200W.
+
+6. Sähköt sorvin vieressä olevaan 3-vaiherasiaan
+
+7. Voiko oheista sorvin modernisointiohjetta soveltaa? Työmääräarvio?
+
+Sähköstä en juurikaan ymmärrä, mutta selitän mielelläni tarkemmin mitä sorville pitäisi tehdä.
+pg

@@ -4,7 +4,7 @@ Käyttöohjeista https://github.com/HelsinkiHacklab/Instructions/blob/master/tos
 löytyy kaksi kytkentäkaaviota, selkein ero työvalon toteutuksessa. Ei ole tietoa onko kumpikaan oikea. 
 
 0. Valistunut arvaus laitteen sähköjen kunnosta. Voiko jäähdytysnesteen moottorin kontaktorin vaihtaa ja säätää päämoottorin  
-kontaktorin tilalle?
+kontaktorin tilalle? Pitäisikö kone itsessään maadoittaa meikäläisten määräysten mukaan? Käyttöohjessa puhutaan erillisestä maadoituksesta.
 
 1. Hätä-Seis-painike standardin EN 418 pysäytysluokan 0 mukaan. Sijoitus niin että sorvari pystyy käyttämään sitä 
 polvella/jalalla.

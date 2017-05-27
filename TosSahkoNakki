@@ -6,11 +6,12 @@ löytyy kaksi kytkentäkaaviota, selkein ero työvalon toteutuksessa. Ei ole tie
 0. Valistunut arvaus laitteen sähköjen kunnosta. Voiko jäähdytysnesteen moottorin kontaktorin vaihtaa ja säätää päämoottorin  
 kontaktorin tilalle? Pitäisikö kone itsessään maadoittaa meikäläisten määräysten mukaan? Käyttöohjessa puhutaan erillisestä maadoituksesta.
 
-1. Hätä-Seis-painike standardin EN 418 pysäytysluokan 0 mukaan. Sijoitus niin että sorvari pystyy käyttämään sitä 
+1. Hätä-Seis-painike standardin EN 418 pysäytysluokan 0 mukaan. Sijoitus niin että sorvari pystyy käyttämään sitä myös
 polvella/jalalla.
 
 2. Vanhan turvalaitteen korvaaminen, sorvi ei saa lähteä käyntiin jos karan päälle tuleva suojus ei ole päällä. 
-Korvataan epävarma kaapelikäyttö raja-/mikrokytkimellä joka estää käynnistyksen mikäli suojus ei ole oikeassa asennossa.
+Korvataan epävarma kaapelikäyttö raja-/mikrokytkimellä joka estää käynnistyksen mikäli suojus ei ole oikeassa asennossa. Sorvi
+sammuu mikäli suojus siirretään ajon aikana sivuun.
 
 3. Uusi turvaominaisuus: sorvi ei saa käynnistyä mikäli kytkinvipu ei ole vapaa-asennossa. 
 Asennon tunnistaminen lienee helpointa sorvin takaa, läheltä varsinaista kytkinpakkaa. 
@@ -23,7 +24,7 @@ Käytetään katossa oleviin ja uuteen kelkkaan kiinnitettävään työvaloon. M
 
 6. Sähköt sorvin vieressä olevaan 3-vaiherasiaan
 
-7. Voiko oheista sorvin modernisointiohjetta soveltaa? Työmääräarvio?
+7. Voiko oheista sorvin modernisointiohjetta käyttää suoraan? Työmäärä-/raha-arvio?
 
 Sähköstä en juurikaan ymmärrä, mutta selitän mielelläni tarkemmin mitä sorville pitäisi tehdä.
 pg
